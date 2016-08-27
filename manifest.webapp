@@ -1,0 +1,13 @@
+{
+	"name": "Settings",
+	"description": "Change Airborn OS settings",
+	"developer": {
+		"name": "Daniel Huigens",
+		"url": "http://airbornos.com"
+	},
+	"icons": {
+		"16": "style/images/settings-small.png",
+		"64": "style/images/settings.png"
+	},
+	"launch_path": "/index.html"
+}
